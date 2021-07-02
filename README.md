@@ -1,2 +1,2 @@
 # cville.github.io
-cville.javascropt.org
+cville.javascript.org
